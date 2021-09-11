@@ -31,5 +31,7 @@ Inspiration of this project is taken from Deep Learning Specialiasation coursera
    > python yolo.py -i=images/fruit.jpg
    
 
+# References
+Guided project ***Perform Real-Time Object Detection with YOLOv3*** from Coursera. 
 
   
